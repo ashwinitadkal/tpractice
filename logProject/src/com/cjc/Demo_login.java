@@ -24,6 +24,8 @@ public class Demo_login {
 		driver.findElement(By.name("submit")).click();
 		//System.out.println("test1 finish");
 		log.info("test end");
+		
+		System.out.println("pull");
 	}
 
 }
