@@ -26,6 +26,8 @@ public class Demo_login {
 		log.info("test end");
 		
 		System.out.println("pull");
+		System.out.println("bRANCH");
+		
 	}
 
 }
